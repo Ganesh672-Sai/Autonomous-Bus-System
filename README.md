@@ -13,7 +13,7 @@ Built a companion mobile app for ticket booking, live tracking, and feature-rich
 
 # Include:
 
-Project Introduction
+# Project Introduction
 Features (App for ticket booking, dual-powered bus, YOLO object detection, etc.)
 Tech Stack (Python, YOLO, Dijkstra's Algorithm, Mobile App Framework, etc.)
 How to Run the Project (Both the app and the object detection system)
